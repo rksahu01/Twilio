@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial timeout="10">
+    <Dial timeout="5" timeLimit="0">
         <Number>+917205691699</Number>
     </Dial>
-    <Hangup/> <!-- Immediately hang up after the call is answered -->
 </Response>
