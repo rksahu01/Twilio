@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Dial timeout="10">
+        <Number>+{{to_number}}</Number>
+    </Dial>
+    <Hangup/> <!-- Immediately hang up after the call is answered -->
+</Response>
